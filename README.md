@@ -1,2 +1,2 @@
 # Machine_Learning_Projects
-A list of Machine Learning Projects Completed till now.
+A list of Completed Machine Learning Projects.
